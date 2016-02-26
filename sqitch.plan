@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=escola
+%uri=https://github.com/arimoura/MeuRepositorio.git
+
+schema_escola 2016-02-26T14:13:09Z ari moura <arimateia.moura@armazemparaiba.com.br> # Add schema for escola
