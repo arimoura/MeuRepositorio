@@ -3,3 +3,4 @@
 %uri=https://github.com/arimoura/MeuRepositorio.git
 
 schema_escola 2016-02-26T14:13:09Z ari moura <arimateia.moura@armazemparaiba.com.br> # Add schema for escola
+aluno [schema_escola] 2016-02-26T14:44:53Z ari moura <arimateia.moura@armazemparaiba.com.br> # Cria tabela alunos
